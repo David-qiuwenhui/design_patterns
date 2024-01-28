@@ -1,6 +1,4 @@
 // 单例设计模式
-// https://www.bilibili.com/video/BV1ve4y1j7NH/?spm_id_from=333.999.0.0&vd_source=62d0c1f767d359ea5365476c408c63a5
-// https://www.patterns.dev/vanilla/singleton-pattern
 let instance;
 let counter = 0;
 
