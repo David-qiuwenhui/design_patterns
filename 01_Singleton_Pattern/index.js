@@ -1,4 +1,4 @@
-// 单例设计模式
+// 常规的写法 非单例模式
 let instance;
 let counter = 0;
 
@@ -34,4 +34,3 @@ const counter2 = new Counter();
 // 保证实例和变量方案只读 不可被外部改变
 // const singletonCounter = Object.freeze(new Counter());
 // export default singletonCounter;
-
