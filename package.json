@@ -1,0 +1,13 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "## 一、单例设计模式 https://space.bilibili.com/38563775/channel/seriesdetail?sid=2898104",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

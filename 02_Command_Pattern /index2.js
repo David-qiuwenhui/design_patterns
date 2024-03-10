@@ -1,3 +1,4 @@
+// Command Pattern 命令模式
 // 我们重构这个 OrderManager 类：它将有一个单一的方法 execute
 // 此方法将执行它给出的任何命令
 class OrderManager {

@@ -1,4 +1,5 @@
-// 当您创建大量对象时，flyweight 模式非常有用，这可能会耗尽所有可用的 RAM。它使我们能够最大限度地减少消耗的内存量。
+// Flyweight Pattern 享元模式
+// 当您创建大量对象时，flyweight 享元模式非常有用，这可能会耗尽所有可用的 RAM。它使我们能够最大限度地减少消耗的内存量。
 class Book {
   constructor(title, author, isbn) {
     this.title = title;
